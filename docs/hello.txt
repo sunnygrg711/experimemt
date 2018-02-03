@@ -13,3 +13,8 @@ commit 4
 
 changed directly
 
+
+commit local 5
+
+commit local 6
+
